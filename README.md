@@ -1,1 +1,1 @@
-# Python_Study
+# Machine learning study by book
